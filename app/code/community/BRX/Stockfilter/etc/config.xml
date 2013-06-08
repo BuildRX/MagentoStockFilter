@@ -1,0 +1,15 @@
+<config>
+    <frontend>
+        <events>
+            <catalog_product_collection_load_before>
+                <observers>
+                    <brx_stockfilter>
+                        <type>model</type>
+                        <class>BRX_Stockfilter_Model_Observer</class>
+                        <method>catalogProductCollectionLoadBefore</method>
+                    </brx_stockfilter>
+                </observers>
+            </catalog_product_collection_load_before>
+        </events>
+    </frontend>
+</config>
