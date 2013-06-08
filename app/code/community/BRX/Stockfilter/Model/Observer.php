@@ -7,6 +7,8 @@
  * This code is part of BuildRX's internal libraries.
  * Unless licensed otherwise you may only use this extension in Magento stores worked on by BuildRX.
  *
+ * StockFilter
+ * 
  * @category    BRX
  * @package     BRX_Stockfilter
  * @copyright   Copyright (c) 2013 BuildRX (http://www.buildrx.com)
